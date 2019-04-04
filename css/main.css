@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -2179,7 +2179,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       max-width: 80%; } }
 
 .brand-wrap {
-  background: #fff;
+  background: #b8c8dc;
   margin-top: -75px;
   border-radius: 100px;
   padding: 64px 14px;
